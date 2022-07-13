@@ -1,4 +1,0 @@
-conda env created: algo39
-open anaconda prompt
-
-conda activate algo39
